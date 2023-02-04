@@ -23,7 +23,7 @@ Follow these steps to setup the project.
 1. Clone the repository
    
     ```bash
-        $ git clone https://github.com/akhil-s-kumar/django-blog-app.git
+        $ git clone https://github.com/chatrapathi-002/Movie-Search-App.git
         $ cd movie
     ```
 2. Run the command
