@@ -46,10 +46,5 @@ Project runs on
 ```bash
 http://localhost:5173/
 ```
-To open Admin panel
-
-```bash
-http://127.0.0.1:8000/admin
-```
 
 [Live Demo](https://moviebucket.vercel.app/)
